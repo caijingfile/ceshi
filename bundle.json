@@ -41,12 +41,8 @@
   },
   "updates": [
     {
-      "pkg": "net.wequick.example.small.app.about",
+      "pkg": "net.wequick.example.small.app.detail",
       "url": "https://github.com/caijingfile/ceshi/blob/master/libnet_wequick_example_small_web_about.so"
-    },
-    {
-      "pkg": "net.wequick.example.small.lib.utils",
-      "url": "https://github.com/caijingfile/ceshi/blob/master/libnet_wequick_example_small_lib_utils.so"
     }
   ]
 }
