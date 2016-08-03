@@ -43,6 +43,10 @@
     {
       "pkg": "net.wequick.example.small.app.detail",
       "url": "https://raw.githubusercontent.com/caijingfile/ceshi/master/libnet_wequick_example_small_app_detail.so"
+    },
+    {
+      "pkg": "com.example.mysmall.lib.style",
+      "url": "https://raw.githubusercontent.com/caijingfile/ceshi/master/libcom_example_mysmall_lib_style.so"
     }
   ]
 }
