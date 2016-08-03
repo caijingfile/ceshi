@@ -42,7 +42,7 @@
   "updates": [
     {
       "pkg": "net.wequick.example.small.app.detail",
-      "url": "https://github.com/caijingfile/ceshi/blob/master/libnet_wequick_example_small_web_about.so"
+      "url": "https://github.com/caijingfile/ceshi/blob/master/libnet_wequick_example_small_app_detail.so"
     }
   ]
 }
